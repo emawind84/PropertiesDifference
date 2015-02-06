@@ -4,7 +4,20 @@
 	<groupId>PropertiesDifference</groupId>
 	<artifactId>PropertiesDifference</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
+	<developers>
+		<developer>
+			<name>Emanuele Disco</name>
+			<email>emawind84@gmail.com</email>
+			<url>www.emawind.com</url>
+		</developer>
+	</developers>
+	<licenses>
+		<license>
+			<name>GNU General Public License</name>
+			<url>http://www.gnu.org/licenses/gpl.txt</url>
+			<distribution>manual</distribution>
+		</license>
+	</licenses>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.commons</groupId>
